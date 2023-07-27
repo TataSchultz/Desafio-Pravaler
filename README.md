@@ -105,4 +105,4 @@ visualmente a funcionalidade e reproduzimos fielmente o produto final em termos 
 
 ***
 
-#### 🧡 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [ARIANE VIEIRA](https://github.com/VieiraAriane) 💛 [DANILA RAMOS](https://github.com/DanilaRamos) 💛 [TALITA MARTINS](https://github.com/talitamsx) 💛 & [TARCILA](https://github.com/TataSchultz) 
+#### 🧡 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [ARIANE VIEIRA](https://github.com/VieiraAriane) 💛 [DANILA RAMOS](https://github.com/DanilaRamos) 💛 [TALITA MARTINS](https://github.com/talitamsx) 💛 & [TARCILA SCHULTZ](https://github.com/TataSchultz) 
